@@ -1,1 +1,1 @@
-# MachineLeraning
+# UNN Machine Learning Course
